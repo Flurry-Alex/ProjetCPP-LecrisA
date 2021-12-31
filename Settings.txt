@@ -1,0 +1,2 @@
+NombreDeCartes: 52
+DifficultéDeMélange(De1à10): 5
